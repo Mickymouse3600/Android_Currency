@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">currency converter (GH to USD)</string>
+    <string name="infor">Please Enter the Amount Below</string>
+    <string name="convert">Convert</string>
+</resources>
